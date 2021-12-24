@@ -1,5 +1,5 @@
 # CSV-Endpoint-Manager-Tool
-A tool that combines CSV files so you can easily import your devices into Endpoint Manager
+A tool that combines CSV files so you can easily import your devices into Microsoft Endpoint Manager
 
 # Syntax to use the script
 
