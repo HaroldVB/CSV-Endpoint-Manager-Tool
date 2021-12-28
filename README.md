@@ -11,7 +11,7 @@ Please reports bugs or comment with improvements I can make!
 
 # Inputdir
 
-`inputdir"`
+`-inputdir`
 
 Please put the full path to the folder containing the .csv files you want to append.
 
