@@ -9,13 +9,13 @@ Please reports bugs or comment with improvements I can make!
 
 `.\CSVConnector.ps1 -inputdir "location of CSV files" -outputdir "where the CSV file will be created"`
 
-# Inputdir
+# Input directory
 
 `-inputdir`
 
 Please put the full path to the folder containing the .csv files you want to append.
 
-# Outputdir
+# Output directory
 
 `-outputdir`
 
