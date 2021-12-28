@@ -2,7 +2,7 @@
 param (
     [Parameter(Mandatory=$true)]
     [ValidateNotNullOrEmpty()]
-    [String]$outputdir, $inputdir
+    [String]$inputdir, $outputdir
 )
 
 # Set ErrorActionPreferenc for correct output
