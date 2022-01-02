@@ -5,7 +5,7 @@ param (
     [String]$inputdir, $outputdir
 )
 
-# Set ErrorActionPreferenc for correct output
+# Set ErrorActionPreference for correct output
 $ErrorActionPreference = "Stop"
 
 # Checking if the input directory exists
